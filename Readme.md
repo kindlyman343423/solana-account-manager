@@ -16,10 +16,10 @@ The Solana Account Manager is a TypeScript application designed to manage and co
 
 ## Installation
 Clone the repository and install dependencies:
-
+`
 git clone <repository-url>
 cd solana-account-manager
-npm install
+npm install`
 
 Usage
 To run the application, use the following command:
@@ -30,6 +30,6 @@ To run with specific public keys, modify the index.ts file with the appropriate 
 Testing
 This project uses Jest for unit testing. To run the tests, use:
 
-npm test
+`npm test`
 This command will execute the test suites defined in the project and display the coverage.
 
